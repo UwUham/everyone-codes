@@ -5,3 +5,4 @@ import random
 YourMomGay = 'penis'
 NoYouMomGay = True
 fuckery = random.randint(0,2000) # gotta get some random variable goodness in there
+if fuckery == 1:
